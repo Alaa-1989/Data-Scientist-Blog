@@ -7,6 +7,11 @@ Starting a new business is often considered a signal of economic confidence. Thi
 
 The analysis follows the CRISP-DM process and combines exploratory data analysis with a regression-based prediction task.
 
+## 📖 Blog Post
+
+A detailed explanation of the analysis, findings, and predictions is available in the accompanying Medium blog post:
+
+👉 https://medium.com/@alaaalaboud/how-did-covid-19-reshape-business-formation-in-the-united-states-bd3b7d82eb27?postPublishedType=initial
 
 ## Key Questions
 - How has business formation activity evolved over time across U.S. states?
