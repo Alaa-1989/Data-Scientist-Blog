@@ -2,8 +2,6 @@
 This repository contains the analysis, modeling, and visualizations for a data science project that explores business formation trends in the United States before, during, and after the COVID-19 pandemic.
 The project was completed as part of the Udacity Data Scientist Nanodegree – Introduction to Data Science and Supervised Machine Learning.
 
-⸻
-
 ### Project Overview
 Starting a new business is often considered a signal of economic confidence. This project investigates how business formation activity changed over time, with a particular focus on the COVID-19 period, and whether simple machine learning models can be used to predict future business creation.
 
