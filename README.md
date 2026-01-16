@@ -1,6 +1,3 @@
-
-:::writing{id=“48319” variant=“standard”}
-
 ## Business Formation Analysis and Prediction (U.S.)
 This repository contains the analysis, modeling, and visualizations for a data science project that explores business formation trends in the United States before, during, and after the COVID-19 pandemic.
 The project was completed as part of the Udacity Data Scientist Nanodegree – Introduction to Data Science and Supervised Machine Learning.
@@ -44,9 +41,7 @@ December 2025 is missing from the dataset and is treated as a future value to be
 - The December 2025 prediction aligns with historical December trends, suggesting a plausible continuation of post-pandemic activity.
 
 ### Repository Structure
- <html>
-   <head>
-     <title>Test</title>
+```
        ├── data/
 │   └── bfs_monthly.csv
 ├── notebook/
@@ -54,7 +49,7 @@ December 2025 is missing from the dataset and is treated as a future value to be
 ├── images/
 │   └── exported_charts/
 ├── README.md
-   </head>
+```
 
 
 ### Tools and Libraries
@@ -76,7 +71,7 @@ https://www.census.gov/econ/bfs/
 
 This project was created as part of a learning journey in data science and applied machine learning.
 For more details, see the accompanying Medium blog post.
-:::
+
 
 
 
